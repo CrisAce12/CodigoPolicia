@@ -1,0 +1,27 @@
+﻿.mainLogin {
+    width: 400px;
+}
+
+.formLogin {
+    width: 450px;
+    height: 390px;
+}
+
+.botonLogin {
+    width: 260px;
+    height: 50px;
+}
+
+.divCondicionesLogin {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.divCondicionesLogin input {
+    margin-right: 10px;
+}
+
+.divCondicionesLogin .linkRegister {
+    color: #011627ff;
+}

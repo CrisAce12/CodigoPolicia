@@ -1,0 +1,30 @@
+﻿.mainRegister {
+    width: 650px;
+}
+
+.formRegister {
+    width: 640px;
+    height: 350px;
+}
+
+.botonRegistrarse {
+    width: 290px;
+    height: 50px;
+}
+
+.condicionesServicioRegister {
+    border: none;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    font-size: 10pt;
+}
+
+.divCondicionesRegister {
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.divCondicionesRegister input {
+        margin-right: 10px;
+}

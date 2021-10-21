@@ -1,0 +1,140 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+header{
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #011627ff;
+    background-image: url(../Images/fondo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.volver{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 45px;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+    background-color: #011627ff;
+    line-height: 47px;
+    display: flex;
+    justify-content: center;
+}
+
+.volver a{
+    font-family: 'bebas Neue';
+    font-size: 19pt;
+    font-weight: 100;
+    text-decoration: none;
+    color: white;
+}
+
+main{
+    height: 650px;
+    margin: 0 auto;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+section{
+    margin-bottom: 18px;
+    margin-top: 60px;
+}
+
+img{
+    width: 240px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Bebas Neue';
+    font-size: 35pt;
+    font-weight: 100;
+    color: #011627ff;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-family: 'Bebas Neue';
+    font-size: 30pt;
+    font-weight: 100;
+    color: #011627ff;
+    margin-bottom: 5px;
+}
+
+.datosUsuario{
+    border: none;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.datosUsuario div{
+    margin: 0 10px;
+    height: 60px;
+    width: 265px;
+}
+
+.datosUsuario div label{
+    color: #011627ff;
+    font-size: 12pt;
+    font-weight: 800;
+}
+
+.datosUsuario input{
+    width: 255px;
+    height: 33px;
+    border: none;
+    background-color: #011627ff;
+    color: white;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+button{
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: #8dd35fff;
+    font-family: 'Bebas Neue';
+    font-size: 25pt;
+    line-height: 50px;
+    color: #011627ff;
+}
+
+button:hover{
+    background-color: #ff8080ff;
+    color: white;
+}
+
+.condicionesServicioLogin{
+    border: none;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    font-size: 10pt;
+}
+
+.condicionesServicio label input{
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,86 @@
+C:\Users\Computador\source\repos\Código De Policía\bin\Código De Policía.dll.config
+C:\Users\Computador\source\repos\Código De Policía\bin\Código De Policía.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\Código De Policía.pdb
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csc.exe
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csc.exe.config
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csc.rsp
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csi.exe
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csi.exe.config
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\csi.rsp
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.AppContext.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Console.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.IO.Compression.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Net.Http.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.ValueTuple.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\vbc.exe
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\vbc.exe.config
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\vbc.rsp
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computador\source\repos\Código De Policía\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computador\source\repos\Código De Policía\bin\Antlr3.Runtime.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\Newtonsoft.Json.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Helpers.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Mvc.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Optimization.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Razor.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.Razor.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\WebGrease.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Helpers.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Mvc.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Optimization.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.Razor.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\System.Web.WebPages.Razor.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\Newtonsoft.Json.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\Antlr3.Runtime.pdb
+C:\Users\Computador\source\repos\Código De Policía\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.Razor.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Computador\source\repos\Código De Policía\obj\Debug\Código De Policía.csprojAssemblyReference.cache
+C:\Users\Computador\source\repos\Código De Policía\obj\Debug\Código De Policía.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\repos\Código De Policía\obj\Debug\Código De Policía.csproj.CopyComplete
+C:\Users\Computador\source\repos\Código De Policía\obj\Debug\Código De Policía.dll
+C:\Users\Computador\source\repos\Código De Policía\obj\Debug\Código De Policía.pdb

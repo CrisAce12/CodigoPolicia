@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="volver">
+
+    <a href="/Home">&#171;&nbsp;Volver</a>
+
+</div>
+
+<main class="mainRegister">
+
+    <section>
+
+        <a href="login.html"><img src="~/Images/LogoNombre.png" alt="No se ha podido cargar la imágen"></a>
+
+    </section>
+
+    <form class="formRegister" action="">
+
+        <h1>Registrate:</h1>
+
+        <fieldset class="datosUsuario">
+
+            <div>
+
+                <label for="nombreUsuario">Nombre de Usuario:<input type="text" name="nombreUsuario" id="nombreUsuario"></label>
+
+            </div>
+
+            <div>
+
+                <label for="correo">Correo Electrónico:<input type="email" name="correo" id="correo"></label>
+
+            </div>
+
+        </fieldset>
+
+        <fieldset class="datosUsuario">
+
+            <div>
+
+                <label for="contraseña">Contraseña:<input type="password" name="contraseña" id="contraseña"></label>
+
+            </div>
+
+            <div>
+
+                <label for="contraseñaConfirmar">Confirmar Contraseña:<input type="password" name="contraseñaConfirmar" id="contraseñaConfirmar"></label>
+
+            </div>
+
+        </fieldset>
+
+        <button class="botonRegistrarse">Registrarse</button>
+
+        <fieldset class="condicionesServicioRegister">
+
+
+            <div class="divCondicionesRegister">
+
+                <input type="checkbox" name="privacidad" id="privacidad">
+                <label for="privacidad"><a>Acepto las Políticas de Privacidad.</a></label>
+
+            </div>
+
+            <div class="divCondicionesRegister">
+
+                <input type="checkbox" name="actualizaciones" id="actualizaciones">
+                <label for="actualizaciones">Quiero recibir actualizaciones del Código de Policía en mi correo.</label>
+
+            </div>
+
+        </fieldset>
+
+    </form>
+
+</main>
+

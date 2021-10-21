@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="volver">
+
+    <a href="/Home">&#171;&nbsp;Volver</a>
+
+</div>
+
+<main class="mainLogin">
+
+    <section>
+
+        <a href="login.html"><img src="~/Images/LogoNombre.png" alt="No se ha podido cargar la imágen"></a>
+
+    </section>
+
+    <form class="formLogin" action="">
+
+        <h1>Inicia Sesión:</h1>
+
+        <fieldset class="datosUsuario">
+
+            <div>
+
+                <label for="nombreUsuario">Nombre de Usuario:<input type="text" name="nombreUsuario" id="nombreUsuario"></label>
+
+            </div>
+
+        </fieldset>
+
+        <fieldset class="datosUsuario">
+
+            <div>
+
+                <label for="contraseña">Contraseña:<input type="password" name="contraseña" id="contraseña"></label>
+
+            </div>
+
+        </fieldset>
+
+        <button class="botonLogin">Iniciar Sesión</button>
+
+        <fieldset class="condicionesServicioLogin">
+
+
+            <div class="divCondicionesLogin">
+
+                <input type="checkbox" name="mantenerSesion" id="mantenerSesion">
+                <label for="mantenerSesion">Mantener Sesión Iniciada.</label>
+
+            </div>
+
+            <div class="divCondicionesLogin">
+
+                <a href="">Olvide mis datos de Usuario</a>
+
+            </div>
+
+            <div class="divCondicionesLogin">
+
+                <a class="linkRegister" href="">Registrarme</a>
+
+            </div>
+
+        </fieldset>
+
+    </form>
+
+</main>
+
+
+
+
